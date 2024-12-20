@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/factory/products/Hotel.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/singelton/BookingManager.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/singelton/UserProfileManager.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/factory/products/LuxuryPackage.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/factory/products/Hostel.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/factory/products/Resort.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/factory/products/CulturalPackage.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/travel2/LoginPage.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/prototype/PrototypeTravelPackage.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/adapter/HotelAPIAdapter.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/builder/Booking.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/factory/AccommodationFactory.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/factory/products/Accommodation.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/factory/products/TravelPackage.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/travel2/ViewBookingPage.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/travel2/BookingPage.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/factory/products/AdventurePackage.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive%20-%20Egyptian%20E-Learning%20University/Documents/NetBeansProjects/Travel2/src/patterns/factory/TravelPackageFactory.java</file>
+        </group>
+    </open-files>
+</project-private>
